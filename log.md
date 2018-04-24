@@ -12,3 +12,9 @@
 
 **Thoughts:** Dude you have no idea how much time take to write a post 
 **Link to the work:** https://medium.com/@gianio/integrando-webpack-dev-server-hot-module-replacement-con-django-997613485f22
+
+### Day 3: April 23, 2018
+
+**Today's Progress**: Instead of building the layout of my #slackClone using normal css/flex I thought it should be funnier if I built it with css-grid. I finished the first section of the css-grid free-course in @scrimba_com
+
+**Thoughts:** CSS-GRID is awesome!!!!!!!!!!!
