@@ -18,3 +18,9 @@
 **Today's Progress**: Instead of building the layout of my #slackClone using normal css/flex I thought it should be funnier if I built it with css-grid. I finished the first section of the css-grid free-course in @scrimba_com
 
 **Thoughts:** CSS-GRID is awesome!!!!!!!!!!!
+
+### Day 4: April 24, 2018
+
+**Today's Progress**: Learning about css-grid is enjoyable, it makes the layout so simple, I think I can finally continue with the layout of my #slackClone using css-grid + flexbox
+
+**Thoughts:** CSS-GRID is so awesome!!!!!!!!!!!
